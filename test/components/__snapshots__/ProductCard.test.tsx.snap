@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TEST Component Product Card Incrementar Count 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Product Card
+  </h1>
+  <span>
+     
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  >
+    Incrementar
+  </button>
+</div>
+`;
+
+exports[`TEST Component Product Card Visualizar Product Card 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Product Card
+  </h1>
+</div>
+`;
